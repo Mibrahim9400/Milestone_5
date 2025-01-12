@@ -78,4 +78,4 @@ def play_game(word_list):
 
 if __name__ == "__main__":
     word_list = ["mango", "apple", "banana", "cherry", "grapes"]
-    play_game(word_list)  # Call play_game to start the game
+    play_game(word_list) 
