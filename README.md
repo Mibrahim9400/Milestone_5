@@ -8,7 +8,7 @@
 5. [License Information](#license-information)
 
 ## Description
-This project demonstrates basic Python functionality, including:
+This project demonstrates basic Python functionality, including: 
 1. 
 2. 
 3. 
